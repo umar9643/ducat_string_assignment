@@ -1,0 +1,1 @@
+# ducat_string_assignment
