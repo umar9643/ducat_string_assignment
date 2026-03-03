@@ -243,11 +243,16 @@ Mastering these methods makes your Python foundation very strong.
 
 ---
 
-# 🚀 Author
+👨‍💻 Author
 
 **Umar Alam**
 Aspiring Data Analyst | Python & ML Learner
 
----
+📬 **Contact**  
+For feedback, suggestions, or collaboration, feel free to reach out via:  
 
-⭐ If you found this helpful, feel free to star the repository!
+**GitHub**: [umar9643](https://github.com/umar9643)  
+**LinkedIn**: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)  
+**Email**: [alamumar258455@gmail.com](mailto:alamumar258455@gmail.com)
+
+
